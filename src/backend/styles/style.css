@@ -1,4 +1,6 @@
 html, body
 {
-    background: burlywood;
+    background: linear-gradient(to top, red, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
