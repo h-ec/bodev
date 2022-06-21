@@ -11,3 +11,10 @@
 
 ## Started At:
 - 6/12/2022 | 20:14:57
+
+# How to setup:
+- At first make sure you have nodejs installed on your machine
+- Then open your terminal
+- And type "npm i"
+- After this you can run hash.js by using "npm run hasher"
+- And all of the files that added in hash.js list will be hashed and go to dest/ folder

@@ -1,0 +1,27 @@
+{
+  "name": "bodev",
+  "version": "1.0.0",
+  "description": "- We are a group that wants to make the programming/coding easier for everyone",
+  "main": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "hasher": "node hash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-ve/bodev.git"
+  },
+  "keywords": ["Javascript", "Html", "Coding", "Programming", "Developing", "Hashing",
+  "Styling", "Frontend", "Backend", "MIT License", "MIT"],
+  "author": "m-ve, m-vpe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-ve/bodev/issues"
+  },
+  "homepage": "https://github.com/m-ve/bodev#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
