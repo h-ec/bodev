@@ -1,6 +1,40 @@
-html, body
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nunito:wght@300&display=swap');
+
+:root
 {
-    background: linear-gradient(to top, red, blue);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    --font-1: 'Lato', sans-serif;
+    --font-2: 'Nunito', sans-serif;
 }
+
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.web-mount
+{
+    background: rgb(228, 228, 230);
+
+    width: 100vw;
+    height: 100vh;
+
+    overflow-x: hidden;
+
+    top: 0;
+    left: 0;
+
+    font-family: var(--font-2);
+
+    /* Don't uncomment unless you want to use linear-gradient or any type of gradient */
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+
+    display: flex;
+
+    position: absolute;
+}
+
+/* Remove me later! */
+.web-mount p { font-size: 24px; }
