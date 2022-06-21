@@ -2,7 +2,6 @@
 
 :root
 {
-<<<<<<< HEAD
     --font-1: 'Lato', sans-serif;
     --font-2: 'Nunito', sans-serif;
 }
@@ -39,9 +38,3 @@
 
 /* Remove me later! */
 .web-mount p { font-size: 24px; }
-=======
-    background: linear-gradient(to bottom, rgb(136, 0, 255),rgb(255, 0, 212));
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
->>>>>>> 1acd69154515ea3ced7d1a09f0e718de836e8c38
